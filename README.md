@@ -1,4 +1,4 @@
-# C++-Essential-Training
+# C++ Essential Training
 
 Instructor: Bill Weinman
 
